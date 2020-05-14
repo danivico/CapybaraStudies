@@ -1,6 +1,10 @@
-describe "meu primeiro script" do
+describe "meu primeiro script", :hello do
+
+  before(:each) do
+    page.current_window.resize_to(1280, 800)
+  end
   it "visitar a página" do
-    visit "http://training-wheels-protocol.herokuapp.com/"
+    visit ""
     expect(page.title).to eql "Training Wheels Protocol"
   end
 end

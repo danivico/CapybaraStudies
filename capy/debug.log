@@ -1,0 +1,4 @@
+[0513/204754.296:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0513/204754.298:ERROR:exception_snapshot_win.cc(98)] thread ID 5832 not found in process
+[0513/204754.308:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0513/204754.308:ERROR:exception_snapshot_win.cc(98)] thread ID 18796 not found in process
